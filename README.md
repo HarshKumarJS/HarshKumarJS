@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HarshKumarJS
-- 👀 I’m interested in ... Software Engineering.
-- 🌱 I’m currently learning ... Java
+- ✨ Currently I'm a ... Backend Developer
+- 👀 I’m interested in ... Software Engineering
+- 🌱 I've learned ... Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... harsh.kumar9118b@gmail.com
 
