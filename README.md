@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshKumarJS
-- ✨ Currently I'm a ... Backend Developer
+- ✨ Currently I'm a ... Research Intern
 - 👀 I’m interested in ... Software Engineering
-- 🌱 I've learned ... Java
+- 🌱 I've learned ... Python and Sanic Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... harsh.kumar9118b@gmail.com
 
